@@ -5,32 +5,6 @@ This project is organized into **frontend** and **backend** folders, making it e
 
 ---
 
-## 📁 Project Structure
-
-projectYT/
-│
-├── backend/
-│ ├── main.py
-│ ├── requirements.txt
-│ └── (other backend files…)
-│
-└── frontend/
-├── src/
-│ ├── nodes/
-│ │ ├── inputNode.js
-│ │ ├── outputNode.js
-│ │ ├── textNode.js
-│ │ ├── llmNode.js
-│ │ └── BaseNode.js
-│ ├── ui.js
-│ ├── App.js
-│ ├── store.js
-│ └── ...other files
-├── package.json
-└── public/
-
----
-
 ## ⚙️ Tech Stack
 
 ### **Frontend**
